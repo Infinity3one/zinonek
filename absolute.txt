@@ -1,0 +1,341 @@
+<html>
+<head>
+
+</head>
+<style>
+.zdjecie {position:relative;left:50px;top:200px;}
+.zdjecie2 {position:relative;right:-1400px;top:200px;}
+.zdjecie3 {position:relative;right:-1200px;bottom:-1300px;}
+.zdjecie4 {position:relative;left:-550px;bottom:-1300px;}
+.lista {position:fixed;left:850px;top:520px;opacity:0.7;}
+td, th {background-color:gray;border: 3px solid black;}
+
+</style>
+
+<body>
+	<img src=logo.jpg class="zdjecie"></img>
+	<img src=logo.jpg class="zdjecie2"></img>
+	<img src=logo.jpg class="zdjecie3"></img>
+	<img src=logo.jpg class="zdjecie4"></img>
+
+<table border="1" class="lista">	
+	<tr>
+		<th>Lista</th>
+	</tr>
+	<tr>
+		<td>Maciek Komar</td>
+	</tr>
+	<tr>
+		<td>Jakub Gach</td>
+	</tr>
+	<tr>
+		<td>Michał Lewandowski</td>
+	</tr>
+	<tr>
+		<td>Kornel Żołnowski</td>
+	</tr>
+	<tr>
+		<td>Błażej Chajewski</td>
+	</tr>
+</table>
+Druga generacja skierowana była nadal do potencjalnych nabywców poprzednika (1G),
+ znacząco jednak zmodyfikowano nadwozie oraz zmieniono paletę silników. Wprowadzona została
+ również wersja kabriolet, nazwana Spyder.
+
+Turbodoładowana jednostka znana z poprzedniej generacji została wzmocniona (ze 195 KM do 210 KM).
+ Nowy silnik wolnossący pochodził od Chryslera (montowany między innymi w modelu Neon), produkowany był przez Chryslera,
+ następnie dostarczano go do Diamond-Star Motors i tam montowano.
+
+Produkcji Eclipsa zaprzestano w 1998.
+
+Opcje wyposażenia
+Druga generacja dostępna była w 7 wersjach: Base (Dostępna tylko do połowy 1996), RS, GS, GS Spyder, GS-T, GS-T Spyder i GSX.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 140 konny silnik 420A Chryslera, 2,0 l 16-zaworów
+Eclipse RS: Lepiej wyposażona wersja z napędem FWD, silnik 420A Chryslera 140 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS: Wersja z napędem przednim, bogatsze wyposażenie, silnik 420A Chryslera 140 KM (wersja europejska: silnik 4G63 147KM) 2,0 l 16-zaworowy DOHC
+Eclipse GS Spyder: Kabriolet z napędem FWD, silnik Mitsubishi Sirius 4G64 170 KM 2,4 l 16-zaworowy SOHC
+Eclipse GS-T: Hardtop, FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 212 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS-T Spyder: Kabriolet z napędem FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 210 KM 2,0 l 16-zaworowy DOHC
+Eclipse GSX: Napęd AWD, turbodoładowany silnik Mitsubishi 4G63 210 KM 2,0 l 16-zaworowy DOHC
+W roku 1997 model Eclipse przeszedł zmiany kosmetyczne nadwozia. Zmieniono kształt przedniego grilla, tylne klosze lamp,
+ zmniejszono światła drogowe i nadano im bardziej okrągły kształt. Zmodyfikowano również tylny zderzak.
+
+Eagle Talon był natomiast dostępny w czterech wersjach, Base, ESi, TSi i TSi AWD. Produkcja zakończyła się w 1998, gdy firma Eagle zakończyła swoją działalność.
+
+Talon Base: odpowiednik Eclipse Base
+Talon ESi: odpowiednik Eclipse RS & GS
+Talon TSi: odpowiednik Eclipse GS-T
+Talon TSi AWD: odpowiednik Eclipse GSX
+Pierwsza generacja Mitsubishi Eclipse została wprowadzona jako model wejściowy firmy do klasy kompaktowych
+ samochodów sportowych wyposażonych w silniki czterocylindrowe. Dostępne były cztery warianty wyposażeniowe:
+ podstawowe trzy posiadały napęd na przednie koła, topowa wersja miała napęd przenoszony na obie osie. Najlepsze FWD i AWD posiadały turbodoładowane silniki.
+
+Przez cały okres produkcji wersja doczekała się kilku zmian; roczniki 1992–94 można łatwo odróżnić
+ od poprzednich po innym wyglądzie nadwozia. W 1995 została zaprezentowana druga generacja modelu (2G).
+
+Opcje wyposażenia
+Pierwsza generacja Eclipse dostępna była w czterech wariantach wyposażenia.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 92 konny silnik wolnossący 4G37 1,8 l 8-zaworowy SOHC
+Eclipse GS: Ulepszony model FWD z bogatszym wyposażeniem
+Eclipse GS DOHC: Ulepszony model FWD z bogatszym wyposażeniem oraz 150 konnym wolnossącym silnikiem 4G63 2,0 l 16-zaworowy DOHC
+Eclipse GS-T: Topowy wariant FWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Eclipse GSX: Model z napędem AWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Występował również model Eclipse Targa była to wersja limitowana (300sztuk) ze ściąganym dachem oraz bez ramek w drzwiach.
+ Zmodyfikowano nadwozie by było sztywniejsze, silnik 2.0 16V DOHC
+
+Turbodoładowane modele z roku 1990 wyposażone w ręczną skrzynię biegów osiągały moc szacowaną na 190 KM,
+ roczniki 1991 i późniejsze osiągały 195 KM. Wersje wyposażone w automatyczną skrzynię biegów generowały 180 KM,
+ moc była mniejsza z powodu zastosowania mniejszych wtryskiwaczy paliwa oraz turbosprężarki.
+ W modelach I-pierwszej generacji 1G 1990-1994 tylne lotki (spojlery) nie były seryjnie montowane.
+
+Trzecia generacja Eclipse (3G) została zaprezentowana w 1999. Był to pierwszy prototyp wystawiony przez Mitsubishi na pokazach motoryzacyjnych w USA[2].
+
+Silnik Sirius 4G63 został zastąpiony przez dwie mocniejsze jednostki,
+ 150 konny motor R4 o pojemności 2,4 l wykonany w technice 16-zaworowej SOHC (4G64) oraz 3 litrowy, 24-zaworowy silnik SOHC V6 generujący moc 205 KM (6G72).
+ Niedostępna była opcja AWD. Zawieszenie zostało znacznie zmodyfikowane, przeprojektowano je pod kątem komfortu, było ono więc dość miękkie.
+
+Eclipse dzieliło płytę podłogową oraz napęd z ósmą generacją Galanta. Masa pojazdu wzrosła w porównaniu z poprzednimi generacjami,
+ jednak silnik V6 generował więcej momentu obrotowego przez co wartości przyspieszenia pozostały praktycznie bez zmian.
+ Pod koniec 2001 moc obniżono do 200 KM aby spełnić ostrzejsze wymogi czystości spalin MMNA, dzięki temu wszystkie wersje spełniały kalifornijskie kryteria.
+
+W połowie 2002 wprowadzono pakiet GTS dla rocznika 2003.
+ Samochód z tym pakietem wyposażony był w silnik o stopniu
+ sprężania równym 10:1 oraz ulepszonym systemem Mitsubishi Variable Induction Management (MVIM) wlotu powietrza co zaowocowało
+ mocą większą o 10 KM i lepszą krzywą mocy.
+
+Opcje wyposażenia
+Eclipse trzeciej generacji dostępny był w siedmiu różnych wersjach wyposażenia:
+ RS, GS, GS Spyder, GT, GT Spyder, GTS i GTS Spyder. Wszystkie warianty posiadały napęd na przednie koła.
+ Pakiet GTS wprowadzono w 2003, instalacji wersji RS zaprzestano w 2005.
+
+Trzecia generacja (3G)(2000–2005):
+
+Eclipse RS & GS: Podstawowa wersja FWD wyposażona w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GS Spyder: Kabriolet, FWD, wyposażony w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GT: Hardtop FWD, silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet FWD silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GTS: Hardtop FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+Eclipse GTS Spyder: Kabriolet FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+
+Informacje na temat czwartej generacji Eclipse zostały ujawnione w latach 2003-04, samochód został zaprezentowany w 2005 na Detroit Auto Show.
+ Nowe modele mogą być wyposażone w dwa silniki; jeden 3,8 l MiVEC V6 o mocy 263 KM (193.9 kW), drugi 2,4 l R4 generujący 165 KM (123 kW).
+ Podobnie jak Galant z 2004, nowe Eclipse posiada napęd tylko na oś przednią,
+ jednakże prototyp który powstał przy współpracy Mitsubishi i Ralliart wyposażony był w hybrydowe rozwiązania z napędem AWD autorstwa MillenWorks,
+ silnik Sirius 4G63 znany z Lancera Evolution oraz bardziej agresywną stylistyką nadwozia ze wstawkami z włókna węglowego[3].
+ Silnik V6 generuje moc 263 KM i moment obrotowy równy 353 N•m (260 lb-ft).
+
+Produkcja czwartej generacji Eclipse została zakończona w 2011 i nie jest planowany następca.
+
+Wersja Spyder (kabriolet) Eclipse została przedstawiona w 2007 na North American International Auto Show.
+
+Opcje wyposażeniowe
+Czwarta generacja Eclipse dostępna była w czterech wariantach: GS, GS Spyder, GT i GT Spyder. Wersje dla czwartej generacji (2006 – nadal):
+
+Eclipse GS: Podstawowa wersja, FWD wyposażona w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GS Spyder: Kabriolet, FWD wyposażony w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GT: Hardtop, FWD, wyposażony w silnik 6G75 o mocy 263 KM, 3,8 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet, FWD, wyposażony w silnik 6G75 o mocy 260 KM, 3,8 l 24-zaworowy SOHC
+Druga generacja skierowana była nadal do potencjalnych nabywców poprzednika (1G),
+ znacząco jednak zmodyfikowano nadwozie oraz zmieniono paletę silników. Wprowadzona została
+ również wersja kabriolet, nazwana Spyder.
+
+Turbodoładowana jednostka znana z poprzedniej generacji została wzmocniona (ze 195 KM do 210 KM).
+ Nowy silnik wolnossący pochodził od Chryslera (montowany między innymi w modelu Neon), produkowany był przez Chryslera,
+ następnie dostarczano go do Diamond-Star Motors i tam montowano.
+
+Produkcji Eclipsa zaprzestano w 1998.
+
+Opcje wyposażenia
+Druga generacja dostępna była w 7 wersjach: Base (Dostępna tylko do połowy 1996), RS, GS, GS Spyder, GS-T, GS-T Spyder i GSX.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 140 konny silnik 420A Chryslera, 2,0 l 16-zaworów
+Eclipse RS: Lepiej wyposażona wersja z napędem FWD, silnik 420A Chryslera 140 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS: Wersja z napędem przednim, bogatsze wyposażenie, silnik 420A Chryslera 140 KM (wersja europejska: silnik 4G63 147KM) 2,0 l 16-zaworowy DOHC
+Eclipse GS Spyder: Kabriolet z napędem FWD, silnik Mitsubishi Sirius 4G64 170 KM 2,4 l 16-zaworowy SOHC
+Eclipse GS-T: Hardtop, FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 212 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS-T Spyder: Kabriolet z napędem FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 210 KM 2,0 l 16-zaworowy DOHC
+Eclipse GSX: Napęd AWD, turbodoładowany silnik Mitsubishi 4G63 210 KM 2,0 l 16-zaworowy DOHC
+W roku 1997 model Eclipse przeszedł zmiany kosmetyczne nadwozia. Zmieniono kształt przedniego grilla, tylne klosze lamp,
+ zmniejszono światła drogowe i nadano im bardziej okrągły kształt. Zmodyfikowano również tylny zderzak.
+
+Eagle Talon był natomiast dostępny w czterech wersjach, Base, ESi, TSi i TSi AWD. Produkcja zakończyła się w 1998, gdy firma Eagle zakończyła swoją działalność.
+
+Talon Base: odpowiednik Eclipse Base
+Talon ESi: odpowiednik Eclipse RS & GS
+Talon TSi: odpowiednik Eclipse GS-T
+Talon TSi AWD: odpowiednik Eclipse GSX
+Pierwsza generacja Mitsubishi Eclipse została wprowadzona jako model wejściowy firmy do klasy kompaktowych
+ samochodów sportowych wyposażonych w silniki czterocylindrowe. Dostępne były cztery warianty wyposażeniowe:
+ podstawowe trzy posiadały napęd na przednie koła, topowa wersja miała napęd przenoszony na obie osie. Najlepsze FWD i AWD posiadały turbodoładowane silniki.
+
+Przez cały okres produkcji wersja doczekała się kilku zmian; roczniki 1992–94 można łatwo odróżnić
+ od poprzednich po innym wyglądzie nadwozia. W 1995 została zaprezentowana druga generacja modelu (2G).
+
+Opcje wyposażenia
+Pierwsza generacja Eclipse dostępna była w czterech wariantach wyposażenia.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 92 konny silnik wolnossący 4G37 1,8 l 8-zaworowy SOHC
+Eclipse GS: Ulepszony model FWD z bogatszym wyposażeniem
+Eclipse GS DOHC: Ulepszony model FWD z bogatszym wyposażeniem oraz 150 konnym wolnossącym silnikiem 4G63 2,0 l 16-zaworowy DOHC
+Eclipse GS-T: Topowy wariant FWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Eclipse GSX: Model z napędem AWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Występował również model Eclipse Targa była to wersja limitowana (300sztuk) ze ściąganym dachem oraz bez ramek w drzwiach.
+ Zmodyfikowano nadwozie by było sztywniejsze, silnik 2.0 16V DOHC
+
+Turbodoładowane modele z roku 1990 wyposażone w ręczną skrzynię biegów osiągały moc szacowaną na 190 KM,
+ roczniki 1991 i późniejsze osiągały 195 KM. Wersje wyposażone w automatyczną skrzynię biegów generowały 180 KM,
+ moc była mniejsza z powodu zastosowania mniejszych wtryskiwaczy paliwa oraz turbosprężarki.
+ W modelach I-pierwszej generacji 1G 1990-1994 tylne lotki (spojlery) nie były seryjnie montowane.
+
+Trzecia generacja Eclipse (3G) została zaprezentowana w 1999. Był to pierwszy prototyp wystawiony przez Mitsubishi na pokazach motoryzacyjnych w USA[2].
+
+Silnik Sirius 4G63 został zastąpiony przez dwie mocniejsze jednostki,
+ 150 konny motor R4 o pojemności 2,4 l wykonany w technice 16-zaworowej SOHC (4G64) oraz 3 litrowy, 24-zaworowy silnik SOHC V6 generujący moc 205 KM (6G72).
+ Niedostępna była opcja AWD. Zawieszenie zostało znacznie zmodyfikowane, przeprojektowano je pod kątem komfortu, było ono więc dość miękkie.
+
+Eclipse dzieliło płytę podłogową oraz napęd z ósmą generacją Galanta. Masa pojazdu wzrosła w porównaniu z poprzednimi generacjami,
+ jednak silnik V6 generował więcej momentu obrotowego przez co wartości przyspieszenia pozostały praktycznie bez zmian.
+ Pod koniec 2001 moc obniżono do 200 KM aby spełnić ostrzejsze wymogi czystości spalin MMNA, dzięki temu wszystkie wersje spełniały kalifornijskie kryteria.
+
+W połowie 2002 wprowadzono pakiet GTS dla rocznika 2003.
+ Samochód z tym pakietem wyposażony był w silnik o stopniu
+ sprężania równym 10:1 oraz ulepszonym systemem Mitsubishi Variable Induction Management (MVIM) wlotu powietrza co zaowocowało
+ mocą większą o 10 KM i lepszą krzywą mocy.
+
+Opcje wyposażenia
+Eclipse trzeciej generacji dostępny był w siedmiu różnych wersjach wyposażenia:
+ RS, GS, GS Spyder, GT, GT Spyder, GTS i GTS Spyder. Wszystkie warianty posiadały napęd na przednie koła.
+ Pakiet GTS wprowadzono w 2003, instalacji wersji RS zaprzestano w 2005.
+
+Trzecia generacja (3G)(2000–2005):
+
+Eclipse RS & GS: Podstawowa wersja FWD wyposażona w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GS Spyder: Kabriolet, FWD, wyposażony w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GT: Hardtop FWD, silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet FWD silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GTS: Hardtop FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+Eclipse GTS Spyder: Kabriolet FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+
+Informacje na temat czwartej generacji Eclipse zostały ujawnione w latach 2003-04, samochód został zaprezentowany w 2005 na Detroit Auto Show.
+ Nowe modele mogą być wyposażone w dwa silniki; jeden 3,8 l MiVEC V6 o mocy 263 KM (193.9 kW), drugi 2,4 l R4 generujący 165 KM (123 kW).
+ Podobnie jak Galant z 2004, nowe Eclipse posiada napęd tylko na oś przednią,
+ jednakże prototyp który powstał przy współpracy Mitsubishi i Ralliart wyposażony był w hybrydowe rozwiązania z napędem AWD autorstwa MillenWorks,
+ silnik Sirius 4G63 znany z Lancera Evolution oraz bardziej agresywną stylistyką nadwozia ze wstawkami z włókna węglowego[3].
+ Silnik V6 generuje moc 263 KM i moment obrotowy równy 353 N•m (260 lb-ft).
+
+Produkcja czwartej generacji Eclipse została zakończona w 2011 i nie jest planowany następca.
+
+Wersja Spyder (kabriolet) Eclipse została przedstawiona w 2007 na North American International Auto Show.
+
+Opcje wyposażeniowe
+Czwarta generacja Eclipse dostępna była w czterech wariantach: GS, GS Spyder, GT i GT Spyder. Wersje dla czwartej generacji (2006 – nadal):
+
+Eclipse GS: Podstawowa wersja, FWD wyposażona w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GS Spyder: Kabriolet, FWD wyposażony w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GT: Hardtop, FWD, wyposażony w silnik 6G75 o mocy 263 KM, 3,8 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet, FWD, wyposażony w silnik 6G75 o mocy 260 KM, 3,8 l 24-zaworowy SOHC
+Druga generacja skierowana była nadal do potencjalnych nabywców poprzednika (1G),
+ znacząco jednak zmodyfikowano nadwozie oraz zmieniono paletę silników. Wprowadzona została
+ również wersja kabriolet, nazwana Spyder.
+
+Turbodoładowana jednostka znana z poprzedniej generacji została wzmocniona (ze 195 KM do 210 KM).
+ Nowy silnik wolnossący pochodził od Chryslera (montowany między innymi w modelu Neon), produkowany był przez Chryslera,
+ następnie dostarczano go do Diamond-Star Motors i tam montowano.
+
+Produkcji Eclipsa zaprzestano w 1998.
+
+Opcje wyposażenia
+Druga generacja dostępna była w 7 wersjach: Base (Dostępna tylko do połowy 1996), RS, GS, GS Spyder, GS-T, GS-T Spyder i GSX.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 140 konny silnik 420A Chryslera, 2,0 l 16-zaworów
+Eclipse RS: Lepiej wyposażona wersja z napędem FWD, silnik 420A Chryslera 140 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS: Wersja z napędem przednim, bogatsze wyposażenie, silnik 420A Chryslera 140 KM (wersja europejska: silnik 4G63 147KM) 2,0 l 16-zaworowy DOHC
+Eclipse GS Spyder: Kabriolet z napędem FWD, silnik Mitsubishi Sirius 4G64 170 KM 2,4 l 16-zaworowy SOHC
+Eclipse GS-T: Hardtop, FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 212 KM 2,0 l 16-zaworowy DOHC
+Eclipse GS-T Spyder: Kabriolet z napędem FWD, turbodoładowany silnik Mitsubishi Sirius 4G63 210 KM 2,0 l 16-zaworowy DOHC
+Eclipse GSX: Napęd AWD, turbodoładowany silnik Mitsubishi 4G63 210 KM 2,0 l 16-zaworowy DOHC
+W roku 1997 model Eclipse przeszedł zmiany kosmetyczne nadwozia. Zmieniono kształt przedniego grilla, tylne klosze lamp,
+ zmniejszono światła drogowe i nadano im bardziej okrągły kształt. Zmodyfikowano również tylny zderzak.
+
+Eagle Talon był natomiast dostępny w czterech wersjach, Base, ESi, TSi i TSi AWD. Produkcja zakończyła się w 1998, gdy firma Eagle zakończyła swoją działalność.
+
+Talon Base: odpowiednik Eclipse Base
+Talon ESi: odpowiednik Eclipse RS & GS
+Talon TSi: odpowiednik Eclipse GS-T
+Talon TSi AWD: odpowiednik Eclipse GSX
+Pierwsza generacja Mitsubishi Eclipse została wprowadzona jako model wejściowy firmy do klasy kompaktowych
+ samochodów sportowych wyposażonych w silniki czterocylindrowe. Dostępne były cztery warianty wyposażeniowe:
+ podstawowe trzy posiadały napęd na przednie koła, topowa wersja miała napęd przenoszony na obie osie. Najlepsze FWD i AWD posiadały turbodoładowane silniki.
+
+Przez cały okres produkcji wersja doczekała się kilku zmian; roczniki 1992–94 można łatwo odróżnić
+ od poprzednich po innym wyglądzie nadwozia. W 1995 została zaprezentowana druga generacja modelu (2G).
+
+Opcje wyposażenia
+Pierwsza generacja Eclipse dostępna była w czterech wariantach wyposażenia.
+
+Eclipse: Podstawowa wersja, FWD wyposażone w 92 konny silnik wolnossący 4G37 1,8 l 8-zaworowy SOHC
+Eclipse GS: Ulepszony model FWD z bogatszym wyposażeniem
+Eclipse GS DOHC: Ulepszony model FWD z bogatszym wyposażeniem oraz 150 konnym wolnossącym silnikiem 4G63 2,0 l 16-zaworowy DOHC
+Eclipse GS-T: Topowy wariant FWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Eclipse GSX: Model z napędem AWD, turbodoładowany silnik 4G63T o mocy 180-195 KM*, (2,0 l 16-zaworowy DOHC)
+Występował również model Eclipse Targa była to wersja limitowana (300sztuk) ze ściąganym dachem oraz bez ramek w drzwiach.
+ Zmodyfikowano nadwozie by było sztywniejsze, silnik 2.0 16V DOHC
+
+Turbodoładowane modele z roku 1990 wyposażone w ręczną skrzynię biegów osiągały moc szacowaną na 190 KM,
+ roczniki 1991 i późniejsze osiągały 195 KM. Wersje wyposażone w automatyczną skrzynię biegów generowały 180 KM,
+ moc była mniejsza z powodu zastosowania mniejszych wtryskiwaczy paliwa oraz turbosprężarki.
+ W modelach I-pierwszej generacji 1G 1990-1994 tylne lotki (spojlery) nie były seryjnie montowane.
+
+Trzecia generacja Eclipse (3G) została zaprezentowana w 1999. Był to pierwszy prototyp wystawiony przez Mitsubishi na pokazach motoryzacyjnych w USA[2].
+
+Silnik Sirius 4G63 został zastąpiony przez dwie mocniejsze jednostki,
+ 150 konny motor R4 o pojemności 2,4 l wykonany w technice 16-zaworowej SOHC (4G64) oraz 3 litrowy, 24-zaworowy silnik SOHC V6 generujący moc 205 KM (6G72).
+ Niedostępna była opcja AWD. Zawieszenie zostało znacznie zmodyfikowane, przeprojektowano je pod kątem komfortu, było ono więc dość miękkie.
+
+Eclipse dzieliło płytę podłogową oraz napęd z ósmą generacją Galanta. Masa pojazdu wzrosła w porównaniu z poprzednimi generacjami,
+ jednak silnik V6 generował więcej momentu obrotowego przez co wartości przyspieszenia pozostały praktycznie bez zmian.
+ Pod koniec 2001 moc obniżono do 200 KM aby spełnić ostrzejsze wymogi czystości spalin MMNA, dzięki temu wszystkie wersje spełniały kalifornijskie kryteria.
+
+W połowie 2002 wprowadzono pakiet GTS dla rocznika 2003.
+ Samochód z tym pakietem wyposażony był w silnik o stopniu
+ sprężania równym 10:1 oraz ulepszonym systemem Mitsubishi Variable Induction Management (MVIM) wlotu powietrza co zaowocowało
+ mocą większą o 10 KM i lepszą krzywą mocy.
+
+Opcje wyposażenia
+Eclipse trzeciej generacji dostępny był w siedmiu różnych wersjach wyposażenia:
+ RS, GS, GS Spyder, GT, GT Spyder, GTS i GTS Spyder. Wszystkie warianty posiadały napęd na przednie koła.
+ Pakiet GTS wprowadzono w 2003, instalacji wersji RS zaprzestano w 2005.
+
+Trzecia generacja (3G)(2000–2005):
+
+Eclipse RS & GS: Podstawowa wersja FWD wyposażona w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GS Spyder: Kabriolet, FWD, wyposażony w silnik Sirius 4G64 o mocy 150 KM, 2,4 l 16-zaworów SOHC
+Eclipse GT: Hardtop FWD, silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet FWD silnik 6G72 o mocy 200KM, 3,0 l 24-zaworowy SOHC
+Eclipse GTS: Hardtop FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+Eclipse GTS Spyder: Kabriolet FWD silnik 6G72 o mocy 210KM, 3,0 l 24-zaworowy SOHC, system Mitsubishi Variable Induction Management (MVIM)
+
+Informacje na temat czwartej generacji Eclipse zostały ujawnione w latach 2003-04, samochód został zaprezentowany w 2005 na Detroit Auto Show.
+ Nowe modele mogą być wyposażone w dwa silniki; jeden 3,8 l MiVEC V6 o mocy 263 KM (193.9 kW), drugi 2,4 l R4 generujący 165 KM (123 kW).
+ Podobnie jak Galant z 2004, nowe Eclipse posiada napęd tylko na oś przednią,
+ jednakże prototyp który powstał przy współpracy Mitsubishi i Ralliart wyposażony był w hybrydowe rozwiązania z napędem AWD autorstwa MillenWorks,
+ silnik Sirius 4G63 znany z Lancera Evolution oraz bardziej agresywną stylistyką nadwozia ze wstawkami z włókna węglowego[3].
+ Silnik V6 generuje moc 263 KM i moment obrotowy równy 353 N•m (260 lb-ft).
+
+Produkcja czwartej generacji Eclipse została zakończona w 2011 i nie jest planowany następca.
+
+Wersja Spyder (kabriolet) Eclipse została przedstawiona w 2007 na North American International Auto Show.
+
+Opcje wyposażeniowe
+Czwarta generacja Eclipse dostępna była w czterech wariantach: GS, GS Spyder, GT i GT Spyder. Wersje dla czwartej generacji (2006 – nadal):
+
+Eclipse GS: Podstawowa wersja, FWD wyposażona w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GS Spyder: Kabriolet, FWD wyposażony w silnik Sirius 4G69 o mocy 162 KM, 2,4 l 16-zaworowy SOHC
+Eclipse GT: Hardtop, FWD, wyposażony w silnik 6G75 o mocy 263 KM, 3,8 l 24-zaworowy SOHC
+Eclipse GT Spyder: Kabriolet, FWD, wyposażony w silnik 6G75 o mocy 260 KM, 3,8 l 24-zaworowy SOHC
+
+</body>
+
+</html>

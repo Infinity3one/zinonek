@@ -1,0 +1,57 @@
+<html>
+<head>
+<style>
+.klasa {width: 50px; height: 100px; border-bottom: thin solid black; border-top: thin solid black;}
+.polska {width: 155px; height: 50px; border-right: thin solid black; border-left: thin solid black;}
+.text {padding-bottom: 20px;}
+</style>
+</head>
+<body>
+ 
+<table cellspacing="0" align="center">
+<tr>
+<td class="polska" style="background-color:white; border-top: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td class="polska" style="background-color:red; border-bottom: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td class="text" style="font-weight: bold; text-align: center;">Polska</td>
+</tr>
+</table>
+<table cellspacing="0" align="center">
+<tr>
+<td class="klasa" style="background-color: #000080; border-left: thin solid black;">&nbsp</td>
+<td class="klasa" style="background-color: white;">&nbsp</td>
+<td class="klasa" style="background-color: red; border-right: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td>&nbsp</td>
+<td class="text">Francja</td>
+</tr>
+</table>
+<table cellspacing="0" align="center">
+<tr>
+<td class="klasa" style="background-color: green; border-left: thin solid black;">&nbsp</td>
+<td class="klasa" style="background-color: white;">&nbsp</td>
+<td class="klasa" style="background-color: red; border-right: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td>&nbsp</td>
+<td class="text">Włochy</td>
+</tr>
+</table>
+<table cellspacing="0" align="center">
+<tr>
+<td class="polska" style="background-color:red; border-top: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td class="polska" style="background-color:white; border-bottom: thin solid black;">&nbsp</td>
+</tr>
+<tr>
+<td class="text" style="text-align: center;">Monako</td>
+</tr>
+</table>
+ 
+</body>
+</html>
